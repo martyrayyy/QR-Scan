@@ -1,0 +1,21 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "QRCode Scanner",
+    "scope" : "/qr-scanner/",
+    "display" : "standalone",
+    "start_url" : "https://localhost/qrscan-app/",
+    "short_name" : "QRCode Scanner",
+    "theme_color" : "#FF0000",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "#FF0000",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+
+        {
+            "src": "https://localhost/icon.png",
+            "sizes": "512x512"
+        }
+]}
