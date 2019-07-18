@@ -1,0 +1,32 @@
+{
+    "name": "HappyBootcamp",
+    "short_name": "HappyBootcamp",
+    "start_url": "https://happybootcamps.com/scan/",
+    "display": "standalone",
+    "background_color": "#FDBA00",
+    "theme_color": "#FDBA00",
+    "lang": "",
+    "orientation": "portrait",
+    "generated": "undefined",
+    "icons": [{
+            "src": "https://happybootcamps.com/scan/images/icons/icon-128x128.png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "https://happybootcamps.com/scan/images/icons/icon-144x144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "https://happybootcamps.com/scan/images/icons/icon-152x152.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "https://happybootcamps.com/scan/images/icons/icon-192x192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://happybootcamps.com/scan/images/icons/icon-256x256.png",
+            "sizes": "256x256"
+        }
+    ]
+}
