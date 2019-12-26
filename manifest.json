@@ -1,9 +1,9 @@
 {"dir" : "ltr",
     "lang" : "en",
     "name" : "QRCode Scanner",
-    "scope" : "/qr-scanner/",
+    "scope" : "/QR-Scan/",
     "display" : "standalone",
-    "start_url" : "https://localhost/qrscan-app/",
+    "start_url" : "https://martyrayyy.github.io/QR-Scan/",
     "short_name" : "QRCode Scanner",
     "theme_color" : "#FF0000",
     "description" : "",
@@ -15,7 +15,7 @@
     "icons" : [
 
         {
-            "src": "https://localhost/icon.png",
+            "src": "https://martyrayyy.github.io/QR-Scan/images/icons/*.png",
             "sizes": "512x512"
         }
 ]}
